@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingedMigration", "WingedMigration\WingedMigration.csproj", "{F6F73C1D-3C5E-4B91-8922-AFF39C8F4CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F73C1D-3C5E-4B91-8922-AFF39C8F4CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F73C1D-3C5E-4B91-8922-AFF39C8F4CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F73C1D-3C5E-4B91-8922-AFF39C8F4CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F73C1D-3C5E-4B91-8922-AFF39C8F4CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

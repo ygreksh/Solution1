@@ -1,0 +1,6 @@
+C:\Users\ygrek\RiderProjects\Solution1\WingedMigration\bin\Debug\WingedMigration.exe
+C:\Users\ygrek\RiderProjects\Solution1\WingedMigration\bin\Debug\WingedMigration.pdb
+C:\Users\ygrek\RiderProjects\Solution1\WingedMigration\obj\Debug\WingedMigration.csprojAssemblyReference.cache
+C:\Users\ygrek\RiderProjects\Solution1\WingedMigration\obj\Debug\WingedMigration.csproj.CoreCompileInputs.cache
+C:\Users\ygrek\RiderProjects\Solution1\WingedMigration\obj\Debug\WingedMigration.exe
+C:\Users\ygrek\RiderProjects\Solution1\WingedMigration\obj\Debug\WingedMigration.pdb
